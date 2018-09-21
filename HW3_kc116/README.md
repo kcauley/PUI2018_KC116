@@ -2,9 +2,9 @@ These are my screenshots
 
 Before:
 
-![Alt text] (commit.png)
+![Alt text] (../HW3_kc116/commit.png)
 
 After:
 
-![Alt text] (commit2.png)
+![Alt text] (../HW3_kc116/commit2.png)
 
