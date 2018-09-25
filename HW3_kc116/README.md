@@ -21,6 +21,6 @@ Here is a link to the ipy notebook
 https://jupyterlab.cusp.adrf.cloud/user/kc116/lab/tree/PUIdata%2FHW3_KC116.ipynb
 
 
-**Part 3 & 4 **
+**Part 3 & 4**
 
 Please see show_bus_locations_KC116.py in the HW3_KC116 folder.
