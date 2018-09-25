@@ -1,6 +1,6 @@
 These are my screenshots
 
-Part 1
+**Part 1**
 
 Before:
 
@@ -11,7 +11,7 @@ After:
 ![Alt text](../HW3_kc116/commit2.png)
 
 
-Part 2:
+**Part 2**
 
 https://jupyterlab.cusp.adrf.cloud/user/kc116/lab/tree/PUIdata%2FHW3_KC116.ipynb
 
