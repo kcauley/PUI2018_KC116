@@ -1,8 +1,8 @@
 For the homework I attended office hours with I. Habeeb, worked with classmates A. Kasem and S. Aita, and received tutoring from a hired tutor.
 
 
-<h>Part 1<h>
- # This is an <h1> tag
+
+ # Part 1 <h1> 
 
 Here are the screen shots...
 
