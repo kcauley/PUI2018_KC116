@@ -2,7 +2,7 @@ For the homework I attended office hours with I. Habeeb, worked with classmates 
 
 
 
- # Part 1 <h1> 
+ # Part 1  
 
 Here are the screen shots...
 
