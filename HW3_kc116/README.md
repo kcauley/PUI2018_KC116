@@ -24,7 +24,7 @@ https://jupyterlab.cusp.adrf.cloud/user/kc116/lab/tree/PUIdata%2FHW3_KC116.ipynb
 
 ![Alt text](../HW3_kc116/screenshot1.png)
 
-![Alt text](../HW3_kc116/screenshot2.png)
+![Alt text](https://lh3.googleusercontent.com/-jb5rrkK2aUk/W7DbwI-DhWI/AAAAAAAABUA/MVxed0JI4VYstuHqaSXhHpJAi3LCsfxIQCL0BGAYYCw/h1240/2018-09-30.png)
 
 ![Alt text](../HW3_kc116/screenshot3.png)
 
