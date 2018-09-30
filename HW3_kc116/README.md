@@ -1,6 +1,5 @@
 For the homework I attended office hours with I. Habeeb, worked with classmates A. Kasem and S. Aita, and received tutoring from a hired tutor.
 
-![Alt text](../HW3_kc116/screenshot2.png)
 
  # Part 1  
 
@@ -23,7 +22,7 @@ https://jupyterlab.cusp.adrf.cloud/user/kc116/lab/tree/PUIdata%2FHW3_KC116.ipynb
 
 **I just realized this link won't work for you so I'm adding screenshots (9/30/18)**
 
-![Alt text](../screenshot1.png)
+![Alt text](../HW3_kc116/screenshot1.png)
 
 ![Alt text](../HW3_kc116/screenshot2.png)
 
