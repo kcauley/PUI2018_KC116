@@ -1,6 +1,6 @@
 For the homework I attended office hours with I. Habeeb, worked with classmates A. Kasem and S. Aita, and received tutoring from a hired tutor.
 
-
+![Alt text](../HW3_kc116/screenshot2.png)
 
  # Part 1  
 
