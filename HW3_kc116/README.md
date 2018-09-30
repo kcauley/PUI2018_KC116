@@ -20,12 +20,16 @@ After:
 Here is a link to the ipy notebook
 
 https://jupyterlab.cusp.adrf.cloud/user/kc116/lab/tree/PUIdata%2FHW3_KC116.ipynb
-# I just realized this link won't work for you so I'm adding screenshots (9/30/18)
+**I just realized this link won't work for you so I'm adding screenshots (9/30/18)**
 
 ![Alt text](../HW3_kc116/screenshot1.png)
+
 ![Alt text](../HW3_kc116/screenshot2.png)
+
 ![Alt text](../HW3_kc116/screenshot3.png)
+
 ![Alt text](../HW3_kc116/screenshot4.png)
+
 ![Alt text](../HW3_kc116/screenshot5.png)
 
 
