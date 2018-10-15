@@ -5,4 +5,5 @@ ANOVA	| 1+, Number of male vs. female students | categorical | 1, Type of positi
   |||||||||
 
 
-<img src="../HW6_KC116/journal.pone.0028556.g001.png" width="350">
+
+![Alt text](https://bit.ly/2IWZoaF)
