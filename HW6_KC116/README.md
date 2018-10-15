@@ -4,7 +4,8 @@
 
 # Assignment 2
 
-This is a template for the table. To see how it is written clock on the Raw link to see this README.md in its raw unrendered format.
+
+Results are documented [here](../HW6_KC116/HW6_KC116_Part2_README.md)
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
