@@ -1,4 +1,5 @@
-Collaborated with Alia Kasem, Mark Edward...
+Collaborated with Alia Kasem
+
 
 # Assignment 1
 
