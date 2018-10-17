@@ -11,7 +11,7 @@ See table and corresponding images [here](../HW6_KC116/HW6_KC116_Part2.md)
 
 # Assignment 3
 
-See HW6_Part3_KC116_2(1).ipynb
+See s [here](../HW6_KC116/HW6_KC116_Part3.ipynb)
   
   
 
