@@ -10,4 +10,4 @@ For assignment 1, I used data found at [NYC OpenData](https://data.cityofnewyork
 
 # Assignment 2
 
-[Authorea](https://www.authorea.com/users/249569/articles/335868-title)
+[Authorea](https://www.authorea.com/335868/jXXInsqATfjfR1aLHEbmKA)
