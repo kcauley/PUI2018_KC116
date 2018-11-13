@@ -9,8 +9,8 @@ For assignment 1, I worked alone to review two of my classmates plots from HW8. 
 
 # Assignment 2
 
-For Assignment 2, I worked in collaboration with 
+For Assignment 2, I worked in collaboration with Alia Kasem, Mark Bauer, 
 
 # Assignment 3
 
-For Assignment 3, I worked in collaboration with
+For Assignment 3, I worked in collaboration with Alia Kasem, Mark Bauer, 
