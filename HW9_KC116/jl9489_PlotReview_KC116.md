@@ -3,7 +3,7 @@
 
 ![Alt text](https://lh3.googleusercontent.com/-OHeavafgLHA/W-rzQUn1uOI/AAAAAAAABdY/0knjAXHLiwMxsdwBEvZ_YuEPlm3TJ6qAQCL0BGAYYCw/h712/2018-11-13.png)
 
-**Figure 1: The above plot shows the percentage of children in poverty for each recorded city in New Jersey. Each dot represents a unique census tract.
+**Figure 1: The above plot shows the percentage of children in poverty for each recorded city in New Jersey. Each dot represents a unique census tract.**
 
 
 
