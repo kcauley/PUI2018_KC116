@@ -11,6 +11,4 @@
 
 
 
--I have some trouble interpreting this plot. I know that each dot represents a unique census tract, but I'm curious if they each reference a particular year. For example, Camden's y axis ("% of children in poverty") rises from about 30-55. But is that increase happening over certain years? Or does that mean, on the particular sample year it could be anywhere within that range?
-
--I think the plot would also benefit from larger labels. 
+  I have some trouble interpreting this plot. I know that each dot represents a unique census tract, but I'm curious if they each reference a particular year...? For example, Camden's y axis ("% of children in poverty") rises from about 30-55. But is that increase happening over certain years? Or does that mean, on the particular sample year it could be anywhere within that range? A better explaination of the data is need to properly interpret the results. I think the plot would also benefit from larger labels. 
