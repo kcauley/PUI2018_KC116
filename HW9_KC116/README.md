@@ -13,4 +13,4 @@ For Assignment 2, I worked in collaboration with
 
 # Assignment 3
 
-For Assignment 2, I worked in collaboration with
+For Assignment 3, I worked in collaboration with
