@@ -18,4 +18,4 @@ For Assignment 3, I worked in collaboration with Alia Kasem*, Mark Bauer, Lavand
 
 
 *for 2 & 3
-Alia also worked with Angel Lue and Tanya Nabila. I compared notes with her after, as my schedule did not permit me to be present at the same time as when they met.  
+Alia also worked with Angel Lue and Tanya Nabila. I compared notes with her after, as my work schedule did not permit me to be present at the same time as when they met.  
