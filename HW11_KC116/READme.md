@@ -1,7 +1,6 @@
 # Assignment 1
 
-
-
+Worked with Alia Kasem and Max Brueckner-Humphreys.
 
 
 # Assignment 2
